@@ -1,6 +1,7 @@
 # bootstrap-getstarted-download-buttons
 
-**This is a Basic Practice Project where i Tried to Copy the Designs of Bootstrap's Usual Buttons as "Get Started" & "Download". **
+**This is a Basic Practice Project where i Tried to Copy the Designs of Bootstrap's Usual Buttons as "Get Started" & "Download".
+**
 **Reference [ Screenshot ]**
 
 
